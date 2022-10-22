@@ -4,7 +4,7 @@ This repository present a simple SSO program that implemented by expressjs and g
 
 ## How to run this program
 
-First, you need to install and config nodejs latest version. Then you install all of the dependencies by enter this command below
+First, you need to install and config nodejs with latest version. Then you install all of the dependencies by enter this command below
 
 ## Installation
 
